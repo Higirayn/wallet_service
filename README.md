@@ -1,4 +1,4 @@
-> # VK Project Raid Activity Bot
+> # WXY SPRING Activity 
 > 
 > Разработчики __[Higirayn](https://t.me/higirayn)__.
 > 
